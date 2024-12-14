@@ -39,5 +39,16 @@ A dynamic and interactive Credit Card Transaction and Customers dashboard design
 - Identified customer trends to enhance platform performance.
 
 ## 4. [**Customer Churn Analysis for Bank**](https://github.com/sakshidive/Customer-Churn-Analysis-for-Bank)
+Developed a comprehensive Power BI dashboard to analyze customer churn patterns and provide actionable insights, enabling data-driven decision-making and improved customer engagement.
 
+**Key Highlights**:
+- Identified high-risk customer segments, enabling targeted retention campaigns to reduce churn.
+- Highlighted geographic trends like Germany’s 32.4% churn rate, focusing efforts on underperforming regions.
+- Provided actionable insights to align churn rates closer to the 15% target.
+
+## 📫 Let's Connect! 📫
+- LinkedIn: https://www.linkedin.com/in/sakshidive-269974247
+- Email Id: sakshidive07@gmail.com
+
+Let’s connect and create data-driven solutions together!😊 
 
