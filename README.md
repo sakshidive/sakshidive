@@ -1,6 +1,7 @@
-# Hi there, I'm Sakshi Dive👋
+# Hi there, I'm Sakshi Dive 👋
 
-Welcome to my GitHub Profile! I am a passionate **Data Analyst** with a strong foundation in tools like **Excel**, **SQL**, **Power BI**, and **MySQL database**. I specialize in uncovering trends, solving business challenges, and transforming data into actionable insights that drive informed decisions and foster business growth. Explore my skills, projects, and professional journey below.
+Welcome to my GitHub Profile! I am a passionate **Data Analyst** with a strong foundation in tools like **Excel**, **SQL**, **Power BI**, and **MySQL database**. 
+ I specialize in uncovering trends, solving business challenges, and transforming data into actionable insights that drive informed decisions and business growth.
 
 ## About Me 
 - ### 💼 An Aspiring Data Analyst
@@ -9,20 +10,20 @@ Welcome to my GitHub Profile! I am a passionate **Data Analyst** with a strong f
 - ### 🧠 Strengths: Analytical mindset, attention to detail, and a focus on delivering impactful solutions.
 
 ## Skills
-- Data Visualization: Power BI, Advanced Excel
-- Database Management: MySQL, SQL
-- Data Transformation: Power Query
+- 📊 Data Visualization: Power BI, Advanced Excel
+- 🗄️ Database Management: MySQL, SQL
+- 🔄 Data Transformation: Power Query
 
 
 ## Projects 
 
 ## 1. [**Saffron Sky Suites Business Insights**](https://github.com/sakshidive/Saffron-Sky-Suites-Business-Insights/blob/main/README.md)
-Developed an interactive Power BI dashboard for a luxury hotel chain to analyze KPI's and deliver actionable business insights, to make data-driven decisions and improve operational performance.
+Developed an interactive Power BI dashboard to analyze KPIs for a luxury hotel chain and deliver actionable business insights, to make   data-driven decisions and improve operational performance.
 
 **Key Highlights**:  
 - Identified a revenue decline and proposed dynamic pricing strategies leading to a potential 15% revenue increase.
 - Provided insights into underperforming locations and customer preferences.  
-- Analyzed booking platforms and room categories to optimize performance.
+- **Tools Used**: Power BI, DAX, Power Query.
 
 ## 2. [**Instagram User Engagement Analysis**](https://github.com/sakshidive/Instagram-User-Engagement-Analysis-)
  Analyzed Instagram user engagement patterns using SQL, identifying trends in likes, comments, and followers.
@@ -30,6 +31,7 @@ Developed an interactive Power BI dashboard for a luxury hotel chain to analyze 
 **Key Insights**:
   - Detected 13 potential bot accounts based on anomalous liking behavior.
   - Delivered insights to optimize content strategies and improve user engagement.
+  - **Tools Used**: SQL, MySQL 
 
 ## 3. [**Credit Card Analysis**](https://github.com/sakshidive/Credit-Card-Analysis-Dashboard)
 A dynamic and interactive Credit Card Transaction and Customers dashboard designed to analyze weekly credit card operations dataand uncover key trends.
@@ -37,6 +39,7 @@ A dynamic and interactive Credit Card Transaction and Customers dashboard design
 **Key Highlights**:
 - Highlighted peak transaction periods for resource optimization.
 - Identified customer trends to enhance platform performance.
+- **Tools Used**: Power BI, DAX
 
 ## 4. [**Customer Churn Analysis for Bank**](https://github.com/sakshidive/Customer-Churn-Analysis-for-Bank)
 Developed a comprehensive Power BI dashboard to analyze customer churn patterns and provide actionable insights, enabling data-driven decision-making and improved customer engagement.
@@ -44,11 +47,11 @@ Developed a comprehensive Power BI dashboard to analyze customer churn patterns 
 **Key Highlights**:
 - Identified high-risk customer segments, enabling targeted retention campaigns to reduce churn.
 - Highlighted geographic trends like Germany’s 32.4% churn rate, focusing efforts on underperforming regions.
-- Provided actionable insights to align churn rates closer to the 15% target.
+- **Tools Used**: PowerBI, Power Query
 
-## 📫 Let's Connect! 📫
-- LinkedIn: https://www.linkedin.com/in/sakshidive-269974247
-- Email Id: sakshidive07@gmail.com
+## 📫 Let's Connect! 
+- 🔗 LinkedIn: https://www.linkedin.com/in/sakshidive-269974247
+- 📧 Email Id: sakshidive07@gmail.com
 
 Let’s connect and create data-driven solutions together!😊 
 
