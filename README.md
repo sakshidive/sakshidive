@@ -1,6 +1,6 @@
 # Hi there, I'm Sakshi Dive 👋
 
-Welcome to my GitHub Profile! I am a passionate **Data Analyst** with a strong foundation in tools like **Excel**, **SQL**, **Power BI**, and **MySQL database**. 
+Welcome to my GitHub Portfolio! I am a passionate **Data Analyst** with a strong foundation in tools like **Excel**, **SQL**, **Power BI**, and **MySQL database**. 
  I specialize in uncovering trends, solving business challenges, and transforming data into actionable insights that drive informed decisions and business growth.
 
 ## About Me 
@@ -24,6 +24,7 @@ Developed an interactive Power BI dashboard to analyze KPIs for a luxury hotel c
 - Identified a revenue decline and proposed dynamic pricing strategies leading to a potential 15% revenue increase.
 - Provided insights into underperforming locations and customer preferences.  
 - **Tools Used**: Power BI, DAX, Power Query.
+- ### [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTU2NzYzNDMtZWEzOC00ODdkLWE4NTQtZjFlOGU1MDRhN2M5IiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=cfe8691d73e7691158f6)
 
 ## 2. [**Instagram User Engagement Analysis**](https://github.com/sakshidive/Instagram-User-Engagement-Analysis-)
  Analyzed Instagram user engagement patterns using SQL, identifying trends in likes, comments, and followers.
@@ -40,6 +41,8 @@ A dynamic and interactive Credit Card Transaction and Customers dashboard design
 - Highlighted peak transaction periods for resource optimization.
 - Identified customer trends to enhance platform performance.
 - **Tools Used**: Power BI, DAX
+- ### [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJkZmY4OTUtNThjZi00YjgzLTk1NWMtMTA0ODI0YWNhYjNhIiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=11b8942e1670cae190e4)
+
 
 ## 4. [**Customer Churn Analysis for Bank**](https://github.com/sakshidive/Customer-Churn-Analysis-for-Bank)
 Developed a comprehensive Power BI dashboard to analyze customer churn patterns and provide actionable insights, enabling data-driven decision-making and improved customer engagement.
@@ -48,6 +51,7 @@ Developed a comprehensive Power BI dashboard to analyze customer churn patterns 
 - Identified high-risk customer segments, enabling targeted retention campaigns to reduce churn.
 - Highlighted geographic trends like Germany’s 32.4% churn rate, focusing efforts on underperforming regions.
 - **Tools Used**: PowerBI, Power Query
+- ### [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDIxNmMtNGUwYi00ZDQ3LWJlOWUtMjk0YjhjNjczOTUxIiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9)
 
 ## 📫 Let's Connect! 
 - 🔗 LinkedIn: https://www.linkedin.com/in/sakshidive-269974247
