@@ -54,7 +54,7 @@ Developed a comprehensive Power BI dashboard to analyze customer churn patterns 
 - ### [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDIxNmMtNGUwYi00ZDQ3LWJlOWUtMjk0YjhjNjczOTUxIiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9)
 
 ## 📫 Let's Connect! 
-- 🔗 LinkedIn: https://www.linkedin.com/in/sakshidive-269974247
+- 🔗 LinkedIn: www.linkedin.com/in/sakshi-dive
 - 📧 Email Id: sakshidive07@gmail.com
 
 Let’s connect and create data-driven solutions together!😊 
