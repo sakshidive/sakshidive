@@ -35,7 +35,7 @@ Developed an interactive Power BI dashboard to analyze KPIs for a luxury hotel c
   - **Tools Used**: SQL, MySQL 
 
 ## 3. [**Credit Card Analysis**](https://github.com/sakshidive/Credit-Card-Analysis-Dashboard)
-A dynamic and interactive Credit Card Transaction and Customers dashboard designed to analyze weekly credit card operations dataand uncover key trends.
+A dynamic and interactive Credit Card Transaction and Customers dashboard designed to analyze weekly credit card operations data and uncover key trends.
 
 **Key Highlights**:
 - Highlighted peak transaction periods for resource optimization.
