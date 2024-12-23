@@ -17,7 +17,7 @@ Welcome to my GitHub Portfolio! I am a passionate **Data Analyst** with a strong
 
 ## Projects 
 
-## 1. [**Saffron Sky Suites Business Insights**](https://github.com/sakshidive/Saffron-Sky-Suites-Business-Insights/blob/main/README.md)
+## 1. [**Business Insights: Saffron Sky Suites**](https://github.com/sakshidive/Saffron-Sky-Suites-Business-Insights/blob/main/README.md)
 Developed an interactive Power BI dashboard to analyze KPIs for a luxury hotel chain and deliver actionable business insights, to make   data-driven decisions and improve operational performance.
 
 **Key Highlights**:  
